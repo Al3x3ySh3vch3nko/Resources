@@ -1,7 +1,5 @@
 # Resources
 Interesting links
 
-
-Icons:
-IcoMoon
-https://icomoon.io/
+About | Name | Link 
+Icons | IcoMoon | https://icomoon.io/
